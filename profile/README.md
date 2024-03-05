@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://cosmiclab.io">
-    <img alt="Epoch" src="../cosmic_wallet_transparent_512x512.png" width="300px" style="border-radius: 50%;"/>
+    <img alt="Epoch" src="./cosmic_wallet_transparent_512x512.png" width="300px" style="border-radius: 50%;"/>
   </a>
   <a href="https://cosmiclab.io">
-    <img alt="Epoch" src="../epoch_logo.png" width="300px" style="border-radius: 50%;"/>
+    <img alt="Epoch" src="./epoch_logo.png" width="300px" style="border-radius: 50%;"/>
   </a>
 </p>
 
@@ -51,7 +51,7 @@ For example you can scope a wallet's transaction permissions to only allow under
 
 <p align="center">
   <a href="https://cosmiclab.io">
-    <img alt="Epoch" src="../epoch_banner.png" width="900px" style="border-radius: 10px;"/>
+    <img alt="Epoch" src="./epoch_banner.png" width="900px" style="border-radius: 10px;"/>
   </a>
 </p>
 
