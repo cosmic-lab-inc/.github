@@ -25,7 +25,7 @@ The arrangement is typically a revenue share, with the trader keep a large perce
 with the institution's capital.
 Typically, the institution gets 20-50% of the profits earned by the trader.
 
-For a trader who routinely does 2x returns per months, and a firm with $100,000 to covest,
+For a trader who routinely does 2x returns per month, and a firm with $100,000 to covest,
 the trader and institution with will split $100,000 per month in profits.
 
 🍿 Here's the magic, and the powerful invention: **scoped transaction permissions**.
@@ -108,4 +108,4 @@ const slot30DaysAgo = currentSlot - 216_000 * 30; // 243_520_000
 const accountInfo: AccountInfo<Buffer> = await client.getAccount(publicKey, slot30DaysAgo);
 ```
 
-🚀 It's as easy as that to get an account's state at any historical point in time!
+🚀 It's as easy as that to get an account's state at any point in time!
