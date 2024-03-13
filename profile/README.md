@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://epoch.fm">
-    <img alt="Epoch" src="./assets/logo.png" width="250px" style="border-radius: 50%;"/>
+    <img alt="Epoch" src="./epoch_logo.png" width="250px" style="border-radius: 50%;"/>
   </a>
 </p>
 
