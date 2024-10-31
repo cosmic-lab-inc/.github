@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://propshop.dev">
-    <img alt="Prop Shop" src="./prop_shop.jpeg" width="250px" style="border-radius: 50%;"/>
+    <img alt="Prop Shop" src="./prop_shop.jpeg" width="100px" style="border-radius: 50%;"/>
   </a>
 </p>
 
 
 <h1 align="center" style="font-size: 50px">
-    Prop Shop ⏳
+    Prop Shop
 </h1>
 
 Invest in the best traders on Solana to build wealth while you sleep.
